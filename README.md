@@ -1,5 +1,5 @@
 # Mithai Tales API 🪔
-A REST API built with Express,js as part of an academic assignment.
+A REST API built with Express.js as part of an academic assignment.
 The project is inspired by my frontend website "Mithai Tales", which explores the history of Indian Sweets.
 
 # Project Context
