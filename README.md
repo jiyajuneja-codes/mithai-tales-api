@@ -12,10 +12,10 @@ The purpose of this API is to practice and demonstrate core backend concepts tau
 - Custom middleware (logging request method, URL, time, and IP)
 
 # API Routes
-- GET / — Welcome message
-- GET /sweets/:name — Demonstrates route parameters
-- GET /sweets?era=mughal — Demonstrates query parameters
-- POST /sweets/add — Demonstrates request body handling
+- GET / - Welcome message
+- GET /sweets/:name - Demonstrates route parameters
+- GET /sweets?era=mughal - Demonstrates query parameters
+- POST /sweets/add - Demonstrates request body handling
 
 # Future Improvements
 This project currently focuses on Express.js fundamentals. As I continue learning backend development, I plan to:
