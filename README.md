@@ -3,7 +3,7 @@ A simple REST API built using Express.js as part of an academic assignment. This
 
 The purpose of this API is to practice and demonstrate core backend concepts taught during the course.
 
-# Frontend Reference: https://mithaitales.netlify.app/⁠
+# Frontend Reference: https://mithaitales.netlify.app/
 
 # Built With
 - Node.js
